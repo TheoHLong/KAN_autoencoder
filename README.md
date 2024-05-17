@@ -1,1 +1,1 @@
-build on An Efficient Implementation of Kolmogorov-Arnold Network "https://github.com/Blealtan/efficient-kan", to test sparse autoencoder KAN's explainability on LLMs
+build on An Efficient Implementation of Kolmogorov-Arnold Network "https://github.com/Blealtan/efficient-kan", to test sparse autoencoder KAN's explainability on LLMs and investigate whether KANs can provide better insights into superposition phenomena
